@@ -9,6 +9,6 @@ First, install pipenv then:
 
 '''
 pipenv install requests
-pipenv run python fnd_meteors.py 
+pipenv run meteors/python fnd_meteors.py 
 '''
 

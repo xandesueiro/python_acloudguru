@@ -5,6 +5,10 @@ Curso de Python realizado na trilha de certificação AWS Architect: A Demo proj
 
 This project requires Python 3 and requests package.
 
-'python find_meteors.py' 
-'python3 find_meteors.py' 
+First, install pipenv then:
+
+'''
+pipenv install requests
+pipenv run python fnd_meteors.py 
+'''
 
